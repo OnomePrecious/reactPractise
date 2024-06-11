@@ -1,0 +1,11 @@
+.buttonContainer{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+
+}
+.mainContainer{
+        display: flex;
+        padding-top:90px;
+
+        }

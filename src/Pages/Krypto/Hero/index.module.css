@@ -1,0 +1,11 @@
+.heroSection{
+    display: flex;
+    padding-top:90px;
+
+
+}
+.buttonSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
