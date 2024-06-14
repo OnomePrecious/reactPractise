@@ -1,0 +1,12 @@
+.textContainer >h4{
+    padding-top: 50px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+.buttonSection{
+    background-color: #04104A;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
