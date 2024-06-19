@@ -7,8 +7,8 @@ const Started =() => {
                 <div className={style.textContainer}>
                     <h4> ARE YOU READY?</h4>
                     <h1 style={{color: "#fff", display: "flex", justifyContent: "center"}}>Be A Part Of The <br/> Next Big Thing</h1>
-                </div>
 
+                </div>
                     <button className={style.buttonSection}>
                         GET STARTED
                     </button>

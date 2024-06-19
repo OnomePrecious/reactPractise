@@ -1,8 +1,18 @@
-.textContainer >h4{
+.mainContainer{
+    border-radius: 25px;
+    background-color: #4646AE;
+}
+
+
+
+
+.textContainer >h4 {
     padding-top: 50px;
     padding-bottom: 5px;
     display: flex;
     justify-content: center;
+    background-color: #4646AE;
+
 }
 .buttonSection{
     background-color: #04104A;
