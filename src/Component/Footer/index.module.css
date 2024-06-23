@@ -1,12 +1,14 @@
-.mainContainer {
-    background: #263238;
+.mainContainer{
     padding: 4% 0;
     display: flex;
-    color: white;
     justify-content: space-around;
-    gap: 20%;
-
+    gap: 10%;
+    margin-right: 40%;
+    margin-bottom: 50%;
+    color: #fff;
 }
+
+
 .footerSide{
     display: grid;
     grid-template-columns: repeat(3, 1fr);

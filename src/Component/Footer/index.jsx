@@ -31,7 +31,7 @@ const Footer = () => {
             <p>Twitter</p>
         </div>
         <div>
-            <p>join our newsletter</p>
+            <div> <p>join our newsletter</p></div>
             <label>
                 <input placeholder="email address" className={style.input}/>
             </label>
