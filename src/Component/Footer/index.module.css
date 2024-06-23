@@ -13,3 +13,18 @@
     justify-content: space-evenly;
 
 }
+
+.footerSide >p{
+    display: block;
+
+}
+.input::placeholder{
+    color: white;
+}
+.input{
+        width: 90%;
+        padding: 10px 15px;
+        border-radius: 3px;
+        border: none;
+
+    }

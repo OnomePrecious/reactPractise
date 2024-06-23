@@ -4,12 +4,14 @@ const Footer = () => {
     return(
         <>
 <div className={style.mainContainer}>
+
     <p style={{color: "#fff"}}>Krypto </p>
-<div className={style.footerSide}>
+<div className={style.mainContainer}>
 
-
-    <div><p>krypto</p>
+</div>
+    <div className={style.footerSide}>
         <div>
+            <div><p>krypto</p></div>
             <p>Home</p>
             <p>About</p>
             <p>Buy NFTs</p>
@@ -34,10 +36,9 @@ const Footer = () => {
                 <input placeholder="email address" className={style.input}/>
             </label>
         </div>
-</div>
-
     </div>
 </div>
+
         </>
     )
 }
