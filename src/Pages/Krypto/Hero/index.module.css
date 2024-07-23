@@ -1,11 +1,18 @@
 .heroSection{
     display: flex;
-    padding-top:90px;
+    justify-content: space-evenly;
+    padding-top:60px;
+    padding-bottom: 20px;
+    font-size:20px;
 
 
 }
-.buttonSection{
+/*.buttonSection{*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*    justify-content: space-around;*/
+/*}*/
+.heroSection > img{
     display: flex;
-    flex-direction: row;
     justify-content: space-around;
 }

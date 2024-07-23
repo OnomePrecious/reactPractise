@@ -8,7 +8,7 @@ const Mobile = () => {
                 <div>
                     <h1 style={{color: "#fff"}}>ANALYTICS</h1>
                     <p style={{color: "#fff"}}>Built-In Analytics<br/> To Track your Nfts</p>
-                    <p>Use our built-in analytics dashboard to pull <br/> valuable insights and monitor the value of
+                    <p style={{color: "#fff"}}>Use our built-in analytics dashboard to pull <br/> valuable insights and monitor the value of
                         your Krypto portfolio over time.</p>
 
                     <button className={style.buttonContainer}>
